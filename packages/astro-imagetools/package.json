@@ -47,9 +47,6 @@
     "object-hash": "3.0.0",
     "potrace": "2.1.8"
   },
-  "optionalDependencies": {
-    "imagetools-core": "3.0.2"
-  },
   "devDependencies": {
     "vitest": "^0.12.4"
   }

@@ -19,10 +19,9 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@astropub/codecs": "0.4.4",
-    "file-type": "17.1.1",
+    "file-type": "17.1.6",
     "find-cache-dir": "3.3.2",
-    "find-up": "^6.3.0",
+    "npm": "^6.3.0",
     "object-hash": "3.0.0",
     "potrace": "2.1.8"
   },
